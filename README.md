@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0060-permutation-sequence) |
+| [0371-sum-of-two-integers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0060-permutation-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
