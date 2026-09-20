@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/yuvi2924/leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/yuvi2924/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuvi2924/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1834-single-threaded-cpu](https://github.com/yuvi2924/leetcode_dsa/tree/master/1834-single-threaded-cpu) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yuvi2924/leetcode_dsa/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
