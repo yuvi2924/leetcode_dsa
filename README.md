@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yuvi2924/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/yuvi2924/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -118,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yuvi2924/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yuvi2924/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
