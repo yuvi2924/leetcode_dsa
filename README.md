@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuvi2924/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/yuvi2924/leetcode_dsa/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
