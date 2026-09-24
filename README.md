@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yuvi2924/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuvi2924/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
