@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yuvi2924/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/yuvi2924/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yuvi2924/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuvi2924/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/yuvi2924/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0344-reverse-string) |
