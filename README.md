@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/yuvi2924/leetcode_dsa/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
