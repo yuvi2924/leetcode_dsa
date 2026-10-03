@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/yuvi2924/leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0100-same-tree) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0100-same-tree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0100-same-tree) |
