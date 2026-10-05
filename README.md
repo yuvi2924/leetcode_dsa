@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/yuvi2924/leetcode_dsa/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0856-score-of-parentheses) |
 ## Matrix
 |  |
 | ------- |
