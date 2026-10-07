@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvi2924/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yuvi2924/leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/yuvi2924/leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
