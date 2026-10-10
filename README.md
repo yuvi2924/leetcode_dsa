@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvi2924/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvi2924/leetcode_dsa/tree/master/0876-middle-of-the-linked-list) |
