@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yuvi2924/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1834-single-threaded-cpu](https://github.com/yuvi2924/leetcode_dsa/tree/master/1834-single-threaded-cpu) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yuvi2924/leetcode_dsa/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yuvi2924/leetcode_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi2924/leetcode_dsa/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yuvi2924/leetcode_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
