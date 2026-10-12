@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvi2924/leetcode_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuvi2924/leetcode_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/yuvi2924/leetcode_dsa/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yuvi2924/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1834-single-threaded-cpu](https://github.com/yuvi2924/leetcode_dsa/tree/master/1834-single-threaded-cpu) |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yuvi2924/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/yuvi2924/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
