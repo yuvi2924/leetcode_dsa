@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/yuvi2924/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/yuvi2924/leetcode_dsa/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvi2924/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuvi2924/leetcode_dsa/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/yuvi2924/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuvi2924/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/yuvi2924/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yuvi2924/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuvi2924/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/yuvi2924/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yuvi2924/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
