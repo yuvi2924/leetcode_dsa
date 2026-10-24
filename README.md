@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [2409-count-days-spent-together](https://github.com/yuvi2924/leetcode_dsa/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvi2924/leetcode_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2409-count-days-spent-together](https://github.com/yuvi2924/leetcode_dsa/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi2924/leetcode_dsa/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
