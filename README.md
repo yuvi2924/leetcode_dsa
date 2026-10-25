@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yuvi2924/leetcode_dsa/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yuvi2924/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/yuvi2924/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yuvi2924/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [1834-single-threaded-cpu](https://github.com/yuvi2924/leetcode_dsa/tree/master/1834-single-threaded-cpu) |
 ## String
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvi2924/leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
