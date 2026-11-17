@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/yuvi2924/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yuvi2924/leetcode_dsa/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvi2924/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/yuvi2924/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/yuvi2924/leetcode_dsa/tree/master/0875-koko-eating-bananas) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yuvi2924/leetcode_dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvi2924/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
