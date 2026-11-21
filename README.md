@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yuvi2924/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/yuvi2924/leetcode_dsa/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/yuvi2924/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvi2924/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yuvi2924/leetcode_dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvi2924/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/yuvi2924/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/yuvi2924/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvi2924/leetcode_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
