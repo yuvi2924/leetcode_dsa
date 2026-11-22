@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yuvi2924/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi2924/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yuvi2924/leetcode_dsa/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvi2924/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/yuvi2924/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yuvi2924/leetcode_dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/yuvi2924/leetcode_dsa/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0494-target-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvi2924/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0039-combination-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -407,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yuvi2924/leetcode_dsa/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
