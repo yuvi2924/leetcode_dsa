@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/yuvi2924/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/yuvi2924/leetcode_dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yuvi2924/leetcode_dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/yuvi2924/leetcode_dsa/tree/master/0371-sum-of-two-integers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvi2924/leetcode_dsa/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/yuvi2924/leetcode_dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yuvi2924/leetcode_dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvi2924/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yuvi2924/leetcode_dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
