@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvi2924/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/yuvi2924/leetcode_dsa/tree/master/0994-rotting-oranges) |
+| [1049-last-stone-weight-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/1049-last-stone-weight-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvi2924/leetcode_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1834-single-threaded-cpu](https://github.com/yuvi2924/leetcode_dsa/tree/master/1834-single-threaded-cpu) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvi2924/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yuvi2924/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvi2924/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [1049-last-stone-weight-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/yuvi2924/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -417,10 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/yuvi2924/leetcode_dsa/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/yuvi2924/leetcode_dsa/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
